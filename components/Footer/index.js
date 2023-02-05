@@ -30,7 +30,7 @@ const Footer = () => {
         <Box>
           <NextLink href="/">
             <Text cursor="pointer">
-              Ayush Soni | &#169;{year.getFullYear()}
+              uvacoder | &#169;{year.getFullYear()}
             </Text>
           </NextLink>
         </Box>
